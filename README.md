@@ -1,6 +1,6 @@
 # 分形 - Mandelbrot集合
 
-来自于programming rust
+** 来自于programming rust 小练习 ** 
 
 执行：
 
